@@ -1,0 +1,1 @@
+{"name":"Local: prim","url":"d:\\Code\\C++\\ds\\graph\\prim\\prim.cpp","tests":[{"id":1720149219528,"input":"6 10\n0 1 6\n0 2 1\n0 3 5\n1 2 5\n2 3 5\n1 4 3\n4 5 6\n3 5 2\n2 4 6\n2 5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\C++\\ds\\graph\\prim\\prim.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: matchSimple","url":"d:\\Code\\C++\\408\\string\\matchSimple.cpp","tests":[{"id":1719319314708,"input":"abaDcabcacbab\nabcac","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\C++\\408\\string\\matchSimple.cpp","group":"local","local":true}

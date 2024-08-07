@@ -1,0 +1,1 @@
+{"name":"Local: matchKMP","url":"d:\\Code\\C++\\408\\string\\matchKMP.cpp","tests":[{"id":1719320518726,"input":"abaDcabcacbab\nabcac","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\C++\\408\\string\\matchKMP.cpp","group":"local","local":true}

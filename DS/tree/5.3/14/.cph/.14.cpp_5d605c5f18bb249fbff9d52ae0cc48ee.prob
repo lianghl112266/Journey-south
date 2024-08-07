@@ -1,0 +1,1 @@
+{"name":"Local: 14","url":"d:\\Code\\C++\\ds\\tree\\5.3\\14\\14.cpp","tests":[{"id":1720007268301,"input":"abc","output":"bca"},{"id":1720007316871,"input":"abcdefg","output":"cdbfgea"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\C++\\ds\\tree\\5.3\\14\\14.cpp","group":"local","local":true}
